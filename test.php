@@ -1,1 +1,2 @@
-nsxnsvcnvc
+<?php
+phpinfo();
