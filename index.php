@@ -1,2 +1,2 @@
 <?php
-phpinfo();
+echo "Test Beanstalk Auto Upload";
