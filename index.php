@@ -1,4 +1,3 @@
 <?php
 echo "Test Beanstalk Auto Upload";
-phpinfo();
-echo "test";
+echo "<h1>Upload using jenkins</h1>";
